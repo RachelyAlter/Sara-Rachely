@@ -31,3 +31,36 @@ C:\Users\אלתר רחל\Desktop\sara & rachely\Sara-Rachely\Sara & Rachely\Sara
 C:\Users\אלתר רחל\Desktop\sara & rachely\Sara-Rachely\Sara & Rachely\Sara & Rachely\obj\Debug\net7.0\Sara & Rachely.pdb
 C:\Users\אלתר רחל\Desktop\sara & rachely\Sara-Rachely\Sara & Rachely\Sara & Rachely\obj\Debug\net7.0\Sara & Rachely.genruntimeconfig.cache
 C:\Users\אלתר רחל\Desktop\sara & rachely\Sara-Rachely\Sara & Rachely\Sara & Rachely\obj\Debug\net7.0\ref\Sara & Rachely.dll
+C:\Users\אלתר רחל\Desktop\Sara-Rachely\Sara & Rachely\Sara & Rachely\obj\Debug\net7.0\Sara & Rachely.csproj.AssemblyReference.cache
+C:\Users\אלתר רחל\Desktop\Sara-Rachely\Sara & Rachely\Sara & Rachely\obj\Debug\net7.0\Sara & Rachely.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\אלתר רחל\Desktop\Sara-Rachely\Sara & Rachely\Sara & Rachely\obj\Debug\net7.0\Sara & Rachely.AssemblyInfoInputs.cache
+C:\Users\אלתר רחל\Desktop\Sara-Rachely\Sara & Rachely\Sara & Rachely\obj\Debug\net7.0\Sara & Rachely.AssemblyInfo.cs
+C:\Users\אלתר רחל\Desktop\Sara-Rachely\Sara & Rachely\Sara & Rachely\obj\Debug\net7.0\Sara & Rachely.csproj.CoreCompileInputs.cache
+C:\Users\אלתר רחל\Desktop\Sara-Rachely\Sara & Rachely\Sara & Rachely\obj\Debug\net7.0\Sara & Rachely.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\אלתר רחל\Desktop\Sara-Rachely\Sara & Rachely\Sara & Rachely\obj\Debug\net7.0\Sara & Rachely.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\אלתר רחל\Desktop\Sara-Rachely\Sara & Rachely\Sara & Rachely\obj\Debug\net7.0\Sara & Rachely.dll
+C:\Users\אלתר רחל\Desktop\Sara-Rachely\Sara & Rachely\Sara & Rachely\obj\Debug\net7.0\refint\Sara & Rachely.dll
+C:\Users\אלתר רחל\Desktop\Sara-Rachely\Sara & Rachely\Sara & Rachely\obj\Debug\net7.0\Sara & Rachely.pdb
+C:\Users\אלתר רחל\Desktop\Sara-Rachely\Sara & Rachely\Sara & Rachely\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\אלתר רחל\Desktop\Sara-Rachely\Sara & Rachely\Sara & Rachely\bin\Debug\net7.0\appsettings.json
+C:\Users\אלתר רחל\Desktop\Sara-Rachely\Sara & Rachely\Sara & Rachely\bin\Debug\net7.0\Sara & Rachely.exe
+C:\Users\אלתר רחל\Desktop\Sara-Rachely\Sara & Rachely\Sara & Rachely\bin\Debug\net7.0\Sara & Rachely.deps.json
+C:\Users\אלתר רחל\Desktop\Sara-Rachely\Sara & Rachely\Sara & Rachely\bin\Debug\net7.0\Sara & Rachely.runtimeconfig.json
+C:\Users\אלתר רחל\Desktop\Sara-Rachely\Sara & Rachely\Sara & Rachely\bin\Debug\net7.0\Sara & Rachely.dll
+C:\Users\אלתר רחל\Desktop\Sara-Rachely\Sara & Rachely\Sara & Rachely\bin\Debug\net7.0\Sara & Rachely.pdb
+C:\Users\אלתר רחל\Desktop\Sara-Rachely\Sara & Rachely\Sara & Rachely\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\אלתר רחל\Desktop\Sara-Rachely\Sara & Rachely\Sara & Rachely\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\אלתר רחל\Desktop\Sara-Rachely\Sara & Rachely\Sara & Rachely\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\אלתר רחל\Desktop\Sara-Rachely\Sara & Rachely\Sara & Rachely\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\אלתר רחל\Desktop\Sara-Rachely\Sara & Rachely\Sara & Rachely\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\אלתר רחל\Desktop\Sara-Rachely\Sara & Rachely\Sara & Rachely\obj\Debug\net7.0\staticwebassets\msbuild.Sara & Rachely.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\אלתר רחל\Desktop\Sara-Rachely\Sara & Rachely\Sara & Rachely\obj\Debug\net7.0\staticwebassets\msbuild.build.Sara & Rachely.props
+C:\Users\אלתר רחל\Desktop\Sara-Rachely\Sara & Rachely\Sara & Rachely\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Sara & Rachely.props
+C:\Users\אלתר רחל\Desktop\Sara-Rachely\Sara & Rachely\Sara & Rachely\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Sara & Rachely.props
+C:\Users\אלתר רחל\Desktop\Sara-Rachely\Sara & Rachely\Sara & Rachely\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\אלתר רחל\Desktop\Sara-Rachely\Sara & Rachely\Sara & Rachely\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\אלתר רחל\Desktop\Sara-Rachely\Sara & Rachely\Sara & Rachely\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\אלתר רחל\Desktop\Sara-Rachely\Sara & Rachely\Sara & Rachely\obj\Debug\net7.0\scopedcss\bundle\Sara & Rachely.styles.css
+C:\Users\אלתר רחל\Desktop\Sara-Rachely\Sara & Rachely\Sara & Rachely\obj\Debug\net7.0\Sara & Rachely.csproj.CopyComplete
+C:\Users\אלתר רחל\Desktop\Sara-Rachely\Sara & Rachely\Sara & Rachely\obj\Debug\net7.0\Sara & Rachely.genruntimeconfig.cache
+C:\Users\אלתר רחל\Desktop\Sara-Rachely\Sara & Rachely\Sara & Rachely\obj\Debug\net7.0\ref\Sara & Rachely.dll

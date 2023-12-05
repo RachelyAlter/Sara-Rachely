@@ -1,12 +1,13 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-
+using Sara___Rachely;
 namespace Sara___Rachely.Controllers
 {
+
+    [Route("api/[controller]")]
+    [ApiController]
     public class MyClassRoomController : Controller
     {
-        public IActionResult Index()
-        {
-            return View();
-        }
+        Classroom Classroom { get; set; }
+
     }
 }
