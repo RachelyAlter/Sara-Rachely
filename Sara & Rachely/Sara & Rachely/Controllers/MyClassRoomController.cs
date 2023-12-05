@@ -8,6 +8,17 @@ namespace Sara___Rachely.Controllers
     public class MyClassRoomController : Controller
     {
         Classroom Classroom { get; set; }
+        [HttpDelete("{name}")]
+        public List<string> deleteFirstStudent(string name)
+        {
+            Classroom.students.Remove(name);
+            return Classroom.students.ToList();
+        }
+        [HttpGet]
+        public string getString()
+        {
+            return "the best classroom ever weith the cutest girls!!!!!!!! ";
+        }
 
     }
 }

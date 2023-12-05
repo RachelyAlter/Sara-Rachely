@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\אלתר רחל\\Desktop\\Sara-Rachely\\Sara & Rachely\\Sara & Rachely\\Sara & Rachely.csproj": {}
+    "C:\\Users\\וולדן שרה\\Desktop\\Sara-Rachely\\Sara & Rachely\\Sara & Rachely\\Sara & Rachely.csproj": {}
   },
   "projects": {
-    "C:\\Users\\אלתר רחל\\Desktop\\Sara-Rachely\\Sara & Rachely\\Sara & Rachely\\Sara & Rachely.csproj": {
+    "C:\\Users\\וולדן שרה\\Desktop\\Sara-Rachely\\Sara & Rachely\\Sara & Rachely\\Sara & Rachely.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\אלתר רחל\\Desktop\\Sara-Rachely\\Sara & Rachely\\Sara & Rachely\\Sara & Rachely.csproj",
+        "projectUniqueName": "C:\\Users\\וולדן שרה\\Desktop\\Sara-Rachely\\Sara & Rachely\\Sara & Rachely\\Sara & Rachely.csproj",
         "projectName": "Sara & Rachely",
-        "projectPath": "C:\\Users\\אלתר רחל\\Desktop\\Sara-Rachely\\Sara & Rachely\\Sara & Rachely\\Sara & Rachely.csproj",
-        "packagesPath": "C:\\Users\\אלתר רחל\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\אלתר רחל\\Desktop\\Sara-Rachely\\Sara & Rachely\\Sara & Rachely\\obj\\",
+        "projectPath": "C:\\Users\\וולדן שרה\\Desktop\\Sara-Rachely\\Sara & Rachely\\Sara & Rachely\\Sara & Rachely.csproj",
+        "packagesPath": "C:\\Users\\וולדן שרה\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\וולדן שרה\\Desktop\\Sara-Rachely\\Sara & Rachely\\Sara & Rachely\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\אלתר רחל\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\וולדן שרה\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
